@@ -1,4 +1,4 @@
-# bibliography-for-ab-initio-DMRG
+# bibliography for ab initio DMRG
 
 Created from DMRG for quantum chemistry related papers citing 
 
